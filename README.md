@@ -1,5 +1,7 @@
 # 4 core CPU의 멀티 프로세스 현상을 자바로 구현하기
 
+<img src="https://github.com/user-attachments/assets/9686184e-966d-4af5-ba26-acc046e9d869" alt="description" width="500"/>
+
 ## 필요 개념
 ### CPU
 운영체제는 실행할 프로그램을 메모리에 적재하고, 더 이상 실행되지 않는 프로그램을 메모리에서 삭제하며 지속적으로 메모리 자원을 관리한다. 따라서 운영체제는 최대한 공정하게 여러 프로그램에 CPU 자원을 할당해야 한다. CPU는 실행되는 프로세스들은 실행 순서와 자원의 일관성을 보장해야 하기에 반드시 동기화(synchronization)되어야 한다.
