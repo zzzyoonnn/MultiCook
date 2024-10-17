@@ -1,6 +1,6 @@
 # 4 core CPU의 멀티 프로세스 현상을 자바로 구현하기
 
-<img src="https://github.com/user-attachments/assets/9686184e-966d-4af5-ba26-acc046e9d869" alt="description" width="500"/>
+<img src="https://github.com/user-attachments/assets/9c4844ea-6c49-47cc-b9c7-b42d106f0e37" alt="description" width="500"/>
 
 ## 필요 개념
 ### CPU
